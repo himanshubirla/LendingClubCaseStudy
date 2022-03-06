@@ -1,4 +1,14 @@
-# Business Understanding
+# Lending Club
+A consumer finance company which specialises in lending various types of loans wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default
+
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+
+
+## General Information
 
 A consumer finance company which specialises in lending various types of loans to urban customers, receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.Two types of risks are associated with the bank’s decision:
 
@@ -14,6 +24,35 @@ When a person applies for a loan, there are two types of decisions that could be
     - Charged-off: Applicant has not paid the instalments in due time for a long period of time
   - Loan rejected
 
-# Business Objective
 
-The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default
+
+## Conclusions
+
+
+Lending club can reduce the charged off customers by considering below points:
+
+- Reducing the high interest rates.
+
+- Capping the loan amount or stopping the loan approvals for small business purpose.
+
+- Proper review of information from borrowers before approving grade G and F loans and particularly  for G3, F5 and G2 sub grade loans.
+
+- Reducing the number of approved loans for borrowers who are from states CA, FL and NY. Or capping the loan amount
+
+- Capping the loan amount for borrowers whose annual income is low and debt is high.
+
+
+
+
+
+## Technologies Used
+- Pandas 1.3.4
+- Seaborn 0.11.2
+- Matplotlib
+- Spacy 3.2.2
+
+
+## Contact
+Created by [@himanshubirla] - feel free to contact me! E-Mail : himanshubirla@outlook.in or himanshubirla.91@gmail.com
+
+
