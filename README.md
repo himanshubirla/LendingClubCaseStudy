@@ -24,7 +24,20 @@ When a person applies for a loan, there are two types of decisions that could be
     - Charged-off: Applicant has not paid the instalments in due time for a long period of time
   - Loan rejected
 
+#### What we need to identify ?(Approach)
 
+
+- Does a borrower defaults if funded amount is greater than the average funding amount
+
+- Does a borrower defaults if interest rates are higher than average interest rate
+
+- Do borrowers defaults who have high installments.
+
+- Do emp_length of a borrower affect borrower to default?
+
+- Do type of home ownership have any affect on borrower to default.
+
+- Do high dti determines if a borrower will default or not ?
 
 ## Conclusions
 
